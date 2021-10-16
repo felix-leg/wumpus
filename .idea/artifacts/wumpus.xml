@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wumpus">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="wumpus.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="wumpus" />
+    </root>
+  </artifact>
+</component>
